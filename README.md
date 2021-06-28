@@ -3,9 +3,11 @@ The project focuses on creating a full fledged e-commerce application where the 
 
 ## Project Screen Shot(s)
 <p float="left">
-  <img src="Images/Screenshot (73).png" width="100" />
-  <img src="Images/Screenshot (74).png" width="100" /> 
-  <img src="Images/Screenshot (75).png" width="100" />
+  <img src="Images/Screenshot (73).png" />
+  <img src="Images/Screenshot (74).png" /> 
+  <img src="Images/Screenshot (75).png" />
+  <img src="Images/Screenshot (76).png" />
+  <img src="Images/Screenshot (77).png" />
 </p>
 
 #### Example:   
