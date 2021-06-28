@@ -1,7 +1,7 @@
 # crwn-clothing
 The project focuses on creating a full fledged e-commerce application where the customer can place orders. The project goal is to familiarize myself with react, react-redux and react-router-dom.
 
-##Live Demo:
+## Live Demo:
 https://crwn-clothing-react-mav.herokuapp.com/
 
 ## Project Screen Shot(s)
