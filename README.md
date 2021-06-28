@@ -18,10 +18,14 @@ Installation:
 `npm install`  
 
 Change the firebase keys in "firebase.utils.js" 
-<img src="firebase.JPG" width="100" />
+<p float="left">
+  <img src="Images/firebase.JPG" width="100" />
+</p>
 
 Change the Stripe public key in "stripe-button.component.jsx" 
-<img src="Stripe.JPG" width="100" />
+<p float="left">
+  <img src="Images/Stripe.JPG" width="100" />
+</p>
 
 To Run Test Suite:  
 
