@@ -1,20 +1,12 @@
 # crwn-clothing
-## Project Name & Pitch
-
-#### Example:
-
-TweetWorld 
-
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
-
-## Project Status
-(only necessary if incomplete)
-
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
+The project focuses on creating a full fledged e-commerce application where the customer can place orders.
 
 ## Project Screen Shot(s)
+<p float="left">
+  <img src="" width="100" />
+  <img src="" width="100" /> 
+  <img src="" width="100" />
+</p>
 
 #### Example:   
 
