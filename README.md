@@ -17,6 +17,12 @@ Installation:
 
 `npm install`  
 
+Change the firebase keys in "firebase.utils.js" 
+<img src="firebase.JPG" width="100" />
+
+Change the Stripe public key in "stripe-button.component.jsx" 
+<img src="Stripe.JPG" width="100" />
+
 To Run Test Suite:  
 
 `npm test`  
