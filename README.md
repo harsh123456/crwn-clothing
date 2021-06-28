@@ -3,21 +3,14 @@ The project focuses on creating a full fledged e-commerce application where the 
 
 ## Project Screen Shot(s)
 <p float="left">
-  <img src="" width="100" />
-  <img src="" width="100" /> 
-  <img src="" width="100" />
+  <img src="Images/Screenshot (73).png" width="100" />
+  <img src="Images/Screenshot (74).png" width="100" /> 
+  <img src="Images/Screenshot (75).png" width="100" />
+  <img src="Images/Screenshot (76).png" width="100" />
+  <img src="Images/Screenshot (77).png" width="100" />
 </p>
 
-#### Example:   
-
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
-
 ## Installation and Setup Instructions
-
-#### Example:  
-
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
 Installation:
@@ -34,19 +27,9 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/ideas`  
+`localhost:3000`  
 
 ## Reflection
-
-  - What was the context for this project? (ie: was this a side project? was this for Turing? was this for an experiment?)
-  - What did you set out to build?
-  - Why was this project challenging and therefore a really good learning experience?
-  - What were some unexpected obstacles?
-  - What tools did you use to implement this project?
-      - This might seem obvious because you are IN this codebase, but to all other humans now is the time to talk about why you chose webpack instead of create react app, or D3, or vanilla JS instead of a framework etc. Brag about your choices and justify them here.  
-
-#### Example:  
-
 This was a 3 week long project built during my third module at Turing School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
 
 Originally I wanted to build an application that allowed users to pull data from the Twitter API based on what they were interested in, such as 'most tagged users'. I started this process by using the `create-react-app` boilerplate, then adding `react-router-4.0` and `redux`.  
